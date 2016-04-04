@@ -15,4 +15,4 @@ Inspired by the socket.io "Get Started: Chat Application" resource found [here](
 - Notifies when user joins and leaves the chat
 - Displays 10 previous chats for a new user upon joining
 
-![chatapp](https://raw.githubusercontent.com/johnfoderaro/chat-app/master/screenshot.png)
+![chatapp](https://raw.githubusercontent.com/johnfoderaro/chat-app/master/screengrab.png)
