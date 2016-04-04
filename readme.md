@@ -4,6 +4,8 @@
 
 This repository is *very much* a work in progress currently 😎
 
+Inspired by the socket.io "Get Started: Chat Application" resource found [here](http://socket.io/get-started/chat/).
+
 ##Requirements / Usage
 - Node.js  
 - `npm install`
