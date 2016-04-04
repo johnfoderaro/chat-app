@@ -1,0 +1,38 @@
+body {
+  padding-top: 30px;
+  padding-bottom: 80px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+
+li {
+  padding: 5px;
+  /*padding-bottom: 5px;*/
+}
+
+li:nth-child(odd) {
+  background: rgba(38, 154, 188, 0.1);
+  border-radius: 4px;
+}
+
+#chat-body {
+  overflow-y: auto;
+}
+
+form {
+  background: #fff;
+}
+
+.chat-bar-fixed {
+  max-width: 1170px;
+  margin: auto;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  position: fixed;
+  right:0;
+  left:0;
+  bottom: 0;
+}
